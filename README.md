@@ -2,4 +2,4 @@
 
 ## *Caleb Davis*
 
-Simple bio website built with Hugo.  
+Simple bio website built with Hugo.
